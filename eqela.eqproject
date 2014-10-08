@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# oct8
+#
+
+projectname: oct8
+vendorid: com.vin
+mainmodule: com.vin.oct8
